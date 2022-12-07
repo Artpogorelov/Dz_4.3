@@ -1,1 +1,1 @@
- ![example workflow](https://github.com/Artpogorelov/Zakazcard/.github/workflows/blank.yml/badge.svg)
+[![Java CI with Gradle](https://github.com/Artpogorelov/Zakazcard/actions/workflows/blank.yml/badge.svg)]
